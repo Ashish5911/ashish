@@ -1,0 +1,12 @@
+{
+    "name": "ashishkumar/html",
+    "description": "task",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "ashish"
+        }
+    ],
+    "require": {}
+}
